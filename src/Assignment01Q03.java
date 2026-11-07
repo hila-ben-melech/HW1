@@ -1,6 +1,6 @@
 public class Assignment01Q03 {
     public static void main(String[] args) {
-        int x = Integer.parseInt(args[0]); // TODO: Read the first string argument (replace this line)
+        int x = Integer.parseInt(args[0]);
         System.out.println("The first " + x + " Fibonacci numbers are:");
 
         int prev = 1;
